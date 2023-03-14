@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "h_huasteca1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32614" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Nombre": "Hospital Regional de Huejutla", "long": 552456.673, "lat": 2329534.978 }, "geometry": { "type": "Point", "coordinates": [ 552456.673065707203932, 2329534.977945714257658 ] } }
+]
+}
